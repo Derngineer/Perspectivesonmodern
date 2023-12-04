@@ -32,7 +32,7 @@
           />
         </div>
           <br>
-          <br><br><br><br>  <br><br><br><br><br>
+          <br><br><br><br>  
           <div id ="interview">
           <DescriptionDetail  title="Zimbabwe Broadcasting Network Interview 📹" description ="Watch ZBC interview as C.E Matoma gives insights on perspectives on modern marriages"
           conclusion="" />
@@ -43,7 +43,7 @@
 
 
           <br>
-          <br><br><br><br>  <br><br><br><br><br>
+          <br><br><br><br>  
 
 
 
@@ -59,7 +59,7 @@
 
           </div>
           <br>
-          <br><br><br><br>  <br><br><br><br><br>  
+          <br><br><br><br>    
 
           <DescriptionDetail id="author" title="About Author 💡" description ="
           Cletus Eliakim Matoma lives at plot number 30 ,
@@ -68,7 +68,7 @@
           conclusion=""
           />
           <br>
-          <br><br><br><br>  <br><br><br><br><br>
+          <br><br><br><br>  
 
           <DescriptionDetail id="talk" title="Get in touch with us📞" description ="
           To book a talk or any arrangements reach us here  +263772702645/+263773589924/ or email us at cletusmatoma@gmail.com
@@ -76,7 +76,7 @@
           conclusion=" "
           />
           <br>
-          <br><br><br><br>  <br><br><br><br><br>
+          <br><br><br><br>  
 
 
         </div>
