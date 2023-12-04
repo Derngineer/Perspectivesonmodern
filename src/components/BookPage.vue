@@ -88,12 +88,12 @@
   </template>
   
   <script>
-  import Navbar from "@/components/Navbar.vue";
-  import ArrowComponent from "@/components/ArrowComponent.vue";
+  import Navbar from "./NavBar.vue";
+  import ArrowComponent from "./ArrowComponent.vue";
   import 'bootstrap/dist/css/bootstrap.css';
-  import DescriptionDetail from "@/components/DescriptionDetail.vue";
-  import VideoItem from "@/components/VideoItem.vue";
-  import ForeText from "@/components/ForeText.vue"
+  import DescriptionDetail from "./DescriptionDetail.vue";
+  import VideoItem from "./VideoItem.vue";
+  import ForeText from "./ForeText.vue"
 
 
   export default {
