@@ -3,7 +3,7 @@
 
       <img id="book-image" src="/books-3mockups.png" />
       <h2 id="book-description">
-        <strong>'The great mystery unveiled!'</strong>
+        <strong>' The great mystery unveiled! '</strong>
       </h2>
   
       <div id ='book' class="side-nav d-flex flex-column align-items-center">
@@ -85,9 +85,9 @@ height: 100%;
 
 }
 #book-description {
-    font-family: Poiret one;
+    font-family: Great Vibes;
     text-align: center;
-    font-size: 24px;
+    font-size: 40px;
 }
 .container-fluid {
   /* min-height: 100vh;  */
