@@ -56,7 +56,7 @@
 
   @media (max-width: 767px) {
   .card {
-    font-size: 16px; /* Adjust font size for even smaller screens */
+    font-size: 20px; /* Adjust font size for even smaller screens */
   }
 }
 
