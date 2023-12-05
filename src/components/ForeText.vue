@@ -29,7 +29,7 @@
 }
 .writer {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 24px;
+    font-size: 20px;
 }
 
 </style>
